@@ -1,0 +1,7 @@
+C:\Users\Stojmilova\Desktop\Advance C#\ДОМАШНИ\Class 4-pcConfigurator\PcConfigurator\bin\Debug\PcConfigurator.exe.config
+C:\Users\Stojmilova\Desktop\Advance C#\ДОМАШНИ\Class 4-pcConfigurator\PcConfigurator\bin\Debug\PcConfigurator.exe
+C:\Users\Stojmilova\Desktop\Advance C#\ДОМАШНИ\Class 4-pcConfigurator\PcConfigurator\bin\Debug\PcConfigurator.pdb
+C:\Users\Stojmilova\Desktop\Advance C#\ДОМАШНИ\Class 4-pcConfigurator\PcConfigurator\obj\Debug\PcConfigurator.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\Advance C#\ДОМАШНИ\Class 4-pcConfigurator\PcConfigurator\obj\Debug\PcConfigurator.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\Advance C#\ДОМАШНИ\Class 4-pcConfigurator\PcConfigurator\obj\Debug\PcConfigurator.exe
+C:\Users\Stojmilova\Desktop\Advance C#\ДОМАШНИ\Class 4-pcConfigurator\PcConfigurator\obj\Debug\PcConfigurator.pdb
